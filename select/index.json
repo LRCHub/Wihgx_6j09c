@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ロックンロールは鳴り止まないっ(2015remaster)",
+  "base_artist": "Shinsei kamattechan",
+  "createdAt": "2026-03-27T01:47:05.607825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロックンロールは鳴り止まないっ - 2015remaster",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/01_ロックンロールは鳴り止まないっ_-_2015remaster_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロックンロールは鳴り止まないっ 2015remaster",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/02_ロックンロールは鳴り止まないっ_2015remaster_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロックンロールは鳴り止まないっ - 2015remaster",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_ロックンロールは鳴り止まないっ_-_2015remaster_神聖かまってちゃん.txt"
+    }
+  ]
+}
